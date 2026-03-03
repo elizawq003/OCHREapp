@@ -1,0 +1,345 @@
+{
+  "result": {
+    "ochre": {
+      "uuidBelongsTo": "46ccab46-9c3f-4448-8476-2bf18236791e",
+      "metadata": {
+        "identifier": "https://pi.lib.uchicago.edu/1001/org/ochre/1f36b6b1-ecb7-4eda-a0f2-52c3eeb2070d",
+        "item": {
+          "identification": {
+            "label": {
+              "content": {
+                "languages": "eng",
+                "string": "Hala Sultan Teke Vessel",
+                "lang": "eng"
+              }
+            }
+          },
+          "category": "spatialUnit",
+          "type": "",
+          "uuid": "1f36b6b1-ecb7-4eda-a0f2-52c3eeb2070d"
+        },
+        "description": "Ras Shamra Tablet Inventory",
+        "publisher": "OCHRE",
+        "project": {
+          "identification": {
+            "website": "https://ochre.lib.uchicago.edu/RSTI/",
+            "label": {
+              "content": {
+                "languages": "eng",
+                "string": "Ras Shamra Tablet Inventory",
+                "lang": "eng"
+              }
+            },
+            "abbreviation": {
+              "content": {
+                "languages": "eng",
+                "string": "RSTI",
+                "lang": "eng"
+              }
+            }
+          },
+          "dateFormat": "MM/dd/yyyy",
+          "page": "item",
+          "uuid": "46ccab46-9c3f-4448-8476-2bf18236791e"
+        },
+        "language": [
+          {
+            "default": true,
+            "content": "eng"
+          },
+          "fre",
+          "ger",
+          "spa"
+        ],
+        "dataset": "OCHRE/RSTI"
+      },
+      "languages": "eng;fre;ger;spa",
+      "publicationDateTime": "2026-02-27T23:48:47Z",
+      "spatialUnit": {
+        "image": {
+          "identification": {
+            "label": {
+              "content": {
+                "languages": "eng",
+                "string": "Hala-Sultan-Tekke-Inv-No-1450",
+                "lang": "eng"
+              }
+            }
+          },
+          "publicationDateTime": "2025-05-20T23:18:53Z",
+          "href": "https://pi.lib.uchicago.edu/1001/org/ochre/ed496a56-a601-49e6-931a-cdbbbcdebd49&preview"
+        },
+        "identification": {
+          "label": {
+            "content": {
+              "languages": "eng",
+              "string": "Hala Sultan Teke Vessel",
+              "lang": "eng"
+            }
+          }
+        },
+        "publicationDateTime": "2026-02-27T23:48:47Z",
+        "observations": {
+          "observation": {
+            "observationNo": 1,
+            "links": {
+              "resource": {
+                "image": {
+                  "identification": {
+                    "label": {
+                      "content": {
+                        "languages": "eng",
+                        "string": "Hala-Sultan-Tekke-Inv-No-1450",
+                        "lang": "eng"
+                      }
+                    }
+                  },
+                  "publicationDateTime": "2025-05-20T23:18:53Z",
+                  "href": "https://pi.lib.uchicago.edu/1001/org/ochre/ed496a56-a601-49e6-931a-cdbbbcdebd49&preview"
+                },
+                "identification": {
+                  "label": {
+                    "content": {
+                      "languages": "eng",
+                      "string": "Hala-Sultan-Tekke-Inv-No-1450",
+                      "lang": "eng"
+                    }
+                  }
+                },
+                "fileSize": 157585,
+                "publicationDateTime": "2025-05-20T23:18:53Z",
+                "width": 850,
+                "type": "image",
+                "uuid": "ed496a56-a601-49e6-931a-cdbbbcdebd49",
+                "fileFormat": "image/jpeg",
+                "height": 385
+              }
+            },
+            "properties": {
+              "property": [
+                {
+                  "label": {
+                    "content": {
+                      "languages": "eng",
+                      "string": "Museum Number",
+                      "lang": "eng"
+                    },
+                    "uuid": "1593a756-6733-4de8-a056-e4b546be202e"
+                  },
+                  "value": {
+                    "dataType": "string",
+                    "content": "Nicosie"
+                  }
+                },
+                {
+                  "label": {
+                    "content": {
+                      "languages": "eng",
+                      "string": "Publication",
+                      "lang": "eng"
+                    },
+                    "uuid": "a1ca7074-145d-4e33-8491-824c13268ee3"
+                  },
+                  "value": {
+                    "dataType": "string",
+                    "content": "RDAC 1982, p. 72-76 (cf. Semitica 33 [1983], p. 7-15)"
+                  }
+                },
+                {
+                  "label": {
+                    "content": {
+                      "languages": "eng",
+                      "string": "KTU",
+                      "lang": "eng"
+                    },
+                    "uuid": "d5ed8450-e5dd-4131-a563-847a0c4ba808"
+                  },
+                  "value": {
+                    "dataType": "string",
+                    "content": "KTU 6.68"
+                  }
+                },
+                {
+                  "label": {
+                    "content": {
+                      "languages": "eng",
+                      "string": "Size",
+                      "lang": "eng"
+                    },
+                    "uuid": "3aa299da-bf90-477f-bad0-15b83cf8a61b"
+                  },
+                  "value": {
+                    "dataType": "string",
+                    "content": "Inscription: 45 x 31; Objet: 152 (diam) x 42"
+                  }
+                },
+                {
+                  "property": {
+                    "label": {
+                      "content": {
+                        "languages": "eng",
+                        "string": "Material",
+                        "lang": "eng"
+                      },
+                      "uuid": "9ef98572-7a17-fe11-3c90-fe4f0a66fa78"
+                    },
+                    "value": {
+                      "dataType": "string",
+                      "content": {
+                        "languages": "eng",
+                        "string": "Silver",
+                        "lang": "eng"
+                      },
+                      "category": "propertyValue",
+                      "uuid": "d6f5e180-43f8-2f5f-f3fc-06bb2935e294"
+                    }
+                  },
+                  "label": {
+                    "content": {
+                      "languages": "eng",
+                      "string": "Material",
+                      "lang": "eng"
+                    },
+                    "uuid": "9ef98572-7a17-fe11-3c90-fe4f0a66fa78"
+                  },
+                  "value": {
+                    "dataType": "string",
+                    "content": {
+                      "languages": "eng",
+                      "string": "Metal",
+                      "lang": "eng"
+                    },
+                    "category": "propertyValue",
+                    "uuid": "37f39f64-1e82-db61-34c8-7d722951ec0c"
+                  }
+                },
+                {
+                  "property": {
+                    "property": {
+                      "label": {
+                        "content": {
+                          "languages": "eng",
+                          "string": "Object type",
+                          "lang": "eng"
+                        },
+                        "uuid": "7ed72a30-14a2-df6f-a2c9-76295cdb4bdb"
+                      },
+                      "value": {
+                        "dataType": "string",
+                        "content": {
+                          "languages": "eng",
+                          "string": "Bowl",
+                          "lang": "eng"
+                        },
+                        "category": "propertyValue",
+                        "uuid": "6d61fcf9-6c7e-4041-ade0-646afb7e5aae"
+                      }
+                    },
+                    "label": {
+                      "content": {
+                        "languages": "eng",
+                        "string": "Object type",
+                        "lang": "eng"
+                      },
+                      "uuid": "7ed72a30-14a2-df6f-a2c9-76295cdb4bdb"
+                    },
+                    "value": {
+                      "dataType": "string",
+                      "content": {
+                        "languages": "eng",
+                        "string": "Vessel",
+                        "lang": "eng"
+                      },
+                      "category": "propertyValue",
+                      "uuid": "5af0fd42-3d4c-5538-d52c-cd04fc56fd40"
+                    }
+                  },
+                  "label": {
+                    "publicationDateTime": "2026-01-30T04:46:56Z",
+                    "content": {
+                      "languages": "eng",
+                      "string": "Classification",
+                      "lang": "eng"
+                    },
+                    "uuid": "e51609b9-99f2-df8f-a579-bc30d68687d6"
+                  },
+                  "value": {
+                    "dataType": "string",
+                    "content": {
+                      "languages": "eng",
+                      "string": "Registered item",
+                      "lang": "eng"
+                    },
+                    "category": "propertyValue",
+                    "uuid": "8e5faccd-67f3-5172-2386-1200f7153bc1"
+                  }
+                },
+                {
+                  "label": {
+                    "content": {
+                      "languages": "eng",
+                      "string": "Associated text",
+                      "lang": "eng"
+                    },
+                    "uuid": "1db231a7-a055-d5c6-08a8-b06022c8daec"
+                  },
+                  "value": {
+                    "publicationDateTime": "2018-03-27T16:15:32Z",
+                    "dataType": "IDREF",
+                    "content": {
+                      "languages": "eng",
+                      "string": "Hala Sultan Teke",
+                      "lang": "eng"
+                    },
+                    "category": "text",
+                    "type": "alphabetic",
+                    "uuid": "42b3d243-7b0c-46eb-9d83-b93fb357a948"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "context": {
+          "context": {
+            "tree": {
+              "publicationDateTime": "2021-06-11T21:17:25Z",
+              "uuid": "39c61f3c-8b05-4bbd-8412-b47c5bf34f2c",
+              "n": -2,
+              "content": "Other Locations"
+            },
+            "project": {
+              "publicationDateTime": "2020-03-02T22:47:05Z",
+              "uuid": "46ccab46-9c3f-4448-8476-2bf18236791e",
+              "n": -3,
+              "content": "Ras Shamra Tablet Inventory"
+            },
+            "spatialUnit": {
+              "publicationDateTime": "2021-06-11T21:17:17Z",
+              "uuid": "6d366794-8fef-4e58-af0d-6b28d37efcc7",
+              "n": -1,
+              "content": "Hala Sultan Tekke (site)"
+            },
+            "displayPath": "Projects/Ras Shamra Tablet Inventory/Other Locations/Hala Sultan Tekke (site)"
+          },
+          "displayPath": "Projects/Ras Shamra Tablet Inventory/Other Locations/Hala Sultan Tekke (site)"
+        },
+        "description": {
+          "content": {
+            "languages": "eng",
+            "string": "Vessel, Alphabetic Ugaritic",
+            "lang": "eng"
+          }
+        },
+        "availability": {
+          "license": "All inscribed object information derived from Bordreuil and Pardee (1989) La Trouvaille Épigraphique de l’Ougarit 1: Concordance. Ras Shamra-Ougarit 5, Éditions Recherche sur les Civilisations: Paris, with additions and corrections. Text editions are attributed to the editors. Photos are copyright of PhoTEO, MRS."
+        },
+        "uuid": "1f36b6b1-ecb7-4eda-a0f2-52c3eeb2070d",
+        "n": 0
+      },
+      "uuid": "1f36b6b1-ecb7-4eda-a0f2-52c3eeb2070d",
+      "belongsTo": "RSTI",
+      "persistentUrl": "https://pi.lib.uchicago.edu/1001/org/ochre/1f36b6b1-ecb7-4eda-a0f2-52c3eeb2070d"
+    }
+  }
+}

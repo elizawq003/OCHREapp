@@ -1,0 +1,1527 @@
+{
+  "result": {
+    "ochre": {
+      "uuidBelongsTo": "46ccab46-9c3f-4448-8476-2bf18236791e",
+      "metadata": {
+        "identifier": "https://pi.lib.uchicago.edu/1001/org/ochre/240e6e06-9d05-4210-aa83-f4190639886d",
+        "item": {
+          "identification": {
+            "label": {
+              "content": {
+                "languages": "eng",
+                "string": "Objects discovered outside the kingdom of Ugarit",
+                "lang": "eng"
+              }
+            }
+          },
+          "category": "set",
+          "type": "mixed",
+          "uuid": "240e6e06-9d05-4210-aa83-f4190639886d",
+          "maxLength": 11
+        },
+        "description": "Ras Shamra Tablet Inventory",
+        "publisher": "OCHRE",
+        "project": {
+          "identification": {
+            "website": "https://ochre.lib.uchicago.edu/RSTI/",
+            "label": {
+              "content": {
+                "languages": "eng",
+                "string": "Ras Shamra Tablet Inventory",
+                "lang": "eng"
+              }
+            },
+            "abbreviation": {
+              "content": {
+                "languages": "eng",
+                "string": "RSTI",
+                "lang": "eng"
+              }
+            }
+          },
+          "dateFormat": "MM/dd/yyyy",
+          "page": "item",
+          "uuid": "46ccab46-9c3f-4448-8476-2bf18236791e"
+        },
+        "language": [
+          {
+            "default": true,
+            "content": "eng"
+          },
+          "fre",
+          "ger",
+          "spa"
+        ],
+        "dataset": "OCHRE/RSTI"
+      },
+      "set": {
+        "createDownloadButtonWhenPublished": true,
+        "identification": {
+          "label": {
+            "content": {
+              "languages": "eng",
+              "string": "Objects discovered outside the kingdom of Ugarit",
+              "lang": "eng"
+            }
+          }
+        },
+        "publicationDateTime": "2026-02-27T23:48:54Z",
+        "context": {
+          "context": {
+            "tree": {
+              "uuid": "e8911814-2a45-47d9-897e-fd4536ea9c86",
+              "n": -1,
+              "content": "Inbox"
+            },
+            "project": {
+              "publicationDateTime": "2020-03-02T22:47:05Z",
+              "uuid": "46ccab46-9c3f-4448-8476-2bf18236791e",
+              "n": -2,
+              "content": "Ras Shamra Tablet Inventory"
+            },
+            "displayPath": "Projects/Ras Shamra Tablet Inventory/Inbox"
+          },
+          "displayPath": "Projects/Ras Shamra Tablet Inventory/Inbox"
+        },
+        "description": {
+          "content": {
+            "languages": "eng",
+            "string": [
+              {
+                "whitespace": "trailing",
+                "content": "These 11 objects are related to the kingdom of Ugarit and were found"
+              },
+              {
+                "rend": "bold",
+                "content": "outside"
+              },
+              {
+                "whitespace": "leading",
+                "content": "the kingdom."
+              }
+            ],
+            "lang": "eng"
+          }
+        },
+        "availability": {
+          "license": "All inscribed object information derived from Bordreuil and Pardee (1989) La Trouvaille Épigraphique de l’Ougarit 1: Concordance. Ras Shamra-Ougarit 5, Éditions Recherche sur les Civilisations: Paris, with additions and corrections. Text editions are attributed to the editors. Photos are copyright of PhoTEO, MRS."
+        },
+        "type": "publishedFromSpec",
+        "uuid": "240e6e06-9d05-4210-aa83-f4190639886d",
+        "items": {
+          "spatialUnit": [
+            {
+              "identification": {
+                "label": {
+                  "content": {
+                    "languages": "eng",
+                    "string": "Ti 02 LXIII 34/91 VI d 12.80",
+                    "lang": "eng"
+                  }
+                }
+              },
+              "publicationDateTime": "2026-02-27T23:48:47Z",
+              "observation": {
+                "observationNo": "Obs. 1"
+              },
+              "coordinates": {
+                "coord": {
+                  "latitude": 37.5995,
+                  "type": "point",
+                  "longitude": 22.79958
+                }
+              },
+              "uuid": "334e740f-c991-4dc3-9a27-ba08911d3d45",
+              "n": 0,
+              "properties": {
+                "property": [
+                  {
+                    "label": {
+                      "content": {
+                        "languages": "eng",
+                        "string": "Object type",
+                        "lang": "eng"
+                      },
+                      "uuid": "7ed72a30-14a2-df6f-a2c9-76295cdb4bdb"
+                    },
+                    "value": {
+                      "dataType": "string",
+                      "content": {
+                        "languages": "eng",
+                        "string": "Tool",
+                        "lang": "eng"
+                      },
+                      "isUncertain": true,
+                      "category": "propertyValue",
+                      "uuid": "ec1d55de-6842-0263-23de-2f3c622ec9ae"
+                    }
+                  },
+                  {
+                    "label": {
+                      "content": {
+                        "languages": "eng",
+                        "string": "Museum Number",
+                        "lang": "eng"
+                      },
+                      "uuid": "1593a756-6733-4de8-a056-e4b546be202e"
+                    }
+                  },
+                  {
+                    "label": {
+                      "content": {
+                        "languages": "eng",
+                        "string": "Full TEO Findspot",
+                        "lang": "eng"
+                      },
+                      "uuid": "8ab9caea-aa80-4bae-a359-d1b03eddddf4"
+                    },
+                    "value": {
+                      "dataType": "string",
+                      "content": "Lower citadel, room 78a, building XI, palatial workshop"
+                    }
+                  },
+                  {
+                    "label": {
+                      "content": {
+                        "languages": "eng",
+                        "string": "Script",
+                        "lang": "eng"
+                      },
+                      "uuid": "108422f2-ffc8-4ed4-9863-815ef0cee189"
+                    },
+                    "value": {
+                      "dataType": "string",
+                      "content": {
+                        "languages": "eng",
+                        "string": "Alphabetic",
+                        "lang": "eng"
+                      },
+                      "category": "propertyValue",
+                      "uuid": "d9deb910-2c10-4249-ae27-f0d85c5ca3e4"
+                    }
+                  },
+                  {
+                    "label": {
+                      "content": {
+                        "languages": "eng",
+                        "string": "Language",
+                        "lang": "eng"
+                      },
+                      "uuid": "f72f1b40-2602-57fe-9b34-351d7d4df00e"
+                    },
+                    "value": {
+                      "dataType": "string",
+                      "content": {
+                        "languages": "eng",
+                        "string": "Ugaritic",
+                        "lang": "eng"
+                      },
+                      "isUncertain": true,
+                      "category": "propertyValue",
+                      "uuid": "fd10e240-1794-821a-0e92-0d5c66b9b996"
+                    }
+                  },
+                  {
+                    "label": {
+                      "content": {
+                        "languages": "eng",
+                        "string": "Material",
+                        "lang": "eng"
+                      },
+                      "uuid": "9ef98572-7a17-fe11-3c90-fe4f0a66fa78"
+                    },
+                    "value": {
+                      "dataType": "string",
+                      "content": {
+                        "languages": "eng",
+                        "string": "Ivory",
+                        "lang": "eng"
+                      },
+                      "comment": "Hippopotamus",
+                      "category": "propertyValue",
+                      "uuid": "e65e77c1-ed65-d789-5ac5-a8d94b6d2703"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "identification": {
+                "label": {
+                  "content": {
+                    "languages": "eng",
+                    "string": "Beth Shemesh AS33.5.165",
+                    "lang": "eng"
+                  }
+                }
+              },
+              "publicationDateTime": "2026-02-27T23:48:47Z",
+              "observation": {
+                "observationNo": "Obs. 1"
+              },
+              "coordinates": {
+                "coord": {
+                  "latitude": 31.74667,
+                  "type": "point",
+                  "longitude": 34.98778
+                }
+              },
+              "uuid": "8824bf5e-152c-48af-b198-ef6888cc530f",
+              "n": 0,
+              "properties": {
+                "property": [
+                  {
+                    "label": {
+                      "content": {
+                        "languages": "eng",
+                        "string": "Object type",
+                        "lang": "eng"
+                      },
+                      "uuid": "7ed72a30-14a2-df6f-a2c9-76295cdb4bdb"
+                    },
+                    "value": {
+                      "dataType": "string",
+                      "content": {
+                        "languages": "eng",
+                        "string": "Tablet",
+                        "lang": "eng"
+                      },
+                      "category": "propertyValue",
+                      "uuid": "20a05d15-12e1-44cd-542f-c1f6188fa026"
+                    }
+                  },
+                  {
+                    "label": {
+                      "content": {
+                        "languages": "eng",
+                        "string": "Museum Number",
+                        "lang": "eng"
+                      },
+                      "uuid": "1593a756-6733-4de8-a056-e4b546be202e"
+                    },
+                    "value": {
+                      "dataType": "string",
+                      "content": "Jerusalem, PAM 33.1876"
+                    }
+                  },
+                  {
+                    "label": {
+                      "content": {
+                        "languages": "eng",
+                        "string": "Full TEO Findspot",
+                        "lang": "eng"
+                      },
+                      "uuid": "8ab9caea-aa80-4bae-a359-d1b03eddddf4"
+                    },
+                    "value": {
+                      "dataType": "string",
+                      "content": "Beth Shemesh"
+                    }
+                  },
+                  {
+                    "label": {
+                      "content": {
+                        "languages": "eng",
+                        "string": "Script",
+                        "lang": "eng"
+                      },
+                      "uuid": "108422f2-ffc8-4ed4-9863-815ef0cee189"
+                    },
+                    "value": {
+                      "dataType": "string",
+                      "content": {
+                        "languages": "eng",
+                        "string": "Alphabetic",
+                        "lang": "eng"
+                      },
+                      "category": "propertyValue",
+                      "uuid": "d9deb910-2c10-4249-ae27-f0d85c5ca3e4"
+                    }
+                  },
+                  {
+                    "label": {
+                      "content": {
+                        "languages": "eng",
+                        "string": "Language",
+                        "lang": "eng"
+                      },
+                      "uuid": "f72f1b40-2602-57fe-9b34-351d7d4df00e"
+                    },
+                    "value": {
+                      "dataType": "string",
+                      "content": {
+                        "languages": "eng",
+                        "string": "Ugaritic",
+                        "lang": "eng"
+                      },
+                      "category": "propertyValue",
+                      "uuid": "fd10e240-1794-821a-0e92-0d5c66b9b996"
+                    }
+                  },
+                  {
+                    "label": {
+                      "content": {
+                        "languages": "eng",
+                        "string": "Material",
+                        "lang": "eng"
+                      },
+                      "uuid": "9ef98572-7a17-fe11-3c90-fe4f0a66fa78"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "identification": {
+                "label": {
+                  "content": {
+                    "languages": "eng",
+                    "string": "Hala Sultan Teke Vessel",
+                    "lang": "eng"
+                  }
+                }
+              },
+              "publicationDateTime": "2026-02-27T23:48:47Z",
+              "observation": {
+                "observationNo": "Obs. 1"
+              },
+              "coordinates": {
+                "coord": {
+                  "latitude": 34.8855556,
+                  "type": "point",
+                  "longitude": 33.6091667
+                }
+              },
+              "uuid": "1f36b6b1-ecb7-4eda-a0f2-52c3eeb2070d",
+              "n": 0,
+              "properties": {
+                "property": [
+                  {
+                    "label": {
+                      "content": {
+                        "languages": "eng",
+                        "string": "Object type",
+                        "lang": "eng"
+                      },
+                      "uuid": "7ed72a30-14a2-df6f-a2c9-76295cdb4bdb"
+                    },
+                    "value": {
+                      "dataType": "string",
+                      "content": {
+                        "languages": "eng",
+                        "string": "Vessel",
+                        "lang": "eng"
+                      },
+                      "category": "propertyValue",
+                      "uuid": "5af0fd42-3d4c-5538-d52c-cd04fc56fd40"
+                    }
+                  },
+                  {
+                    "label": {
+                      "content": {
+                        "languages": "eng",
+                        "string": "Museum Number",
+                        "lang": "eng"
+                      },
+                      "uuid": "1593a756-6733-4de8-a056-e4b546be202e"
+                    },
+                    "value": {
+                      "dataType": "string",
+                      "content": "Nicosie"
+                    }
+                  },
+                  {
+                    "label": {
+                      "content": {
+                        "languages": "eng",
+                        "string": "Full TEO Findspot",
+                        "lang": "eng"
+                      },
+                      "uuid": "8ab9caea-aa80-4bae-a359-d1b03eddddf4"
+                    }
+                  },
+                  {
+                    "label": {
+                      "content": {
+                        "languages": "eng",
+                        "string": "Script",
+                        "lang": "eng"
+                      },
+                      "uuid": "108422f2-ffc8-4ed4-9863-815ef0cee189"
+                    },
+                    "value": {
+                      "dataType": "string",
+                      "content": {
+                        "languages": "eng",
+                        "string": "Alphabetic",
+                        "lang": "eng"
+                      },
+                      "category": "propertyValue",
+                      "uuid": "d9deb910-2c10-4249-ae27-f0d85c5ca3e4"
+                    }
+                  },
+                  {
+                    "label": {
+                      "content": {
+                        "languages": "eng",
+                        "string": "Language",
+                        "lang": "eng"
+                      },
+                      "uuid": "f72f1b40-2602-57fe-9b34-351d7d4df00e"
+                    },
+                    "value": {
+                      "dataType": "string",
+                      "content": {
+                        "languages": "eng",
+                        "string": "Ugaritic",
+                        "lang": "eng"
+                      },
+                      "isUncertain": true,
+                      "category": "propertyValue",
+                      "uuid": "fd10e240-1794-821a-0e92-0d5c66b9b996"
+                    }
+                  },
+                  {
+                    "label": {
+                      "content": {
+                        "languages": "eng",
+                        "string": "Material",
+                        "lang": "eng"
+                      },
+                      "uuid": "9ef98572-7a17-fe11-3c90-fe4f0a66fa78"
+                    },
+                    "value": {
+                      "dataType": "string",
+                      "content": {
+                        "languages": "eng",
+                        "string": "Metal",
+                        "lang": "eng"
+                      },
+                      "category": "propertyValue",
+                      "uuid": "37f39f64-1e82-db61-34c8-7d722951ec0c"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "identification": {
+                "label": {
+                  "content": {
+                    "languages": "eng",
+                    "string": "Kamid el-Loz IC 1 5S",
+                    "lang": "eng"
+                  }
+                }
+              },
+              "publicationDateTime": "2026-02-27T23:48:47Z",
+              "observation": {
+                "observationNo": "Obs. 1"
+              },
+              "coordinates": {
+                "coord": {
+                  "latitude": 33.6583333,
+                  "type": "point",
+                  "longitude": 35.7380556
+                }
+              },
+              "uuid": "d5635e2d-a37a-4be1-abae-2033d8d1147d",
+              "n": 0,
+              "properties": {
+                "property": [
+                  {
+                    "label": {
+                      "content": {
+                        "languages": "eng",
+                        "string": "Object type",
+                        "lang": "eng"
+                      },
+                      "uuid": "7ed72a30-14a2-df6f-a2c9-76295cdb4bdb"
+                    },
+                    "value": {
+                      "dataType": "string",
+                      "content": {
+                        "languages": "eng",
+                        "string": "Vessel",
+                        "lang": "eng"
+                      },
+                      "category": "propertyValue",
+                      "uuid": "5af0fd42-3d4c-5538-d52c-cd04fc56fd40"
+                    }
+                  },
+                  {
+                    "label": {
+                      "content": {
+                        "languages": "eng",
+                        "string": "Museum Number",
+                        "lang": "eng"
+                      },
+                      "uuid": "1593a756-6733-4de8-a056-e4b546be202e"
+                    },
+                    "value": {
+                      "dataType": "string",
+                      "content": "Beyrouth KL 67:428p"
+                    }
+                  },
+                  {
+                    "label": {
+                      "content": {
+                        "languages": "eng",
+                        "string": "Full TEO Findspot",
+                        "lang": "eng"
+                      },
+                      "uuid": "8ab9caea-aa80-4bae-a359-d1b03eddddf4"
+                    },
+                    "value": {
+                      "dataType": "string",
+                      "content": "Kamid el-Loz"
+                    }
+                  },
+                  {
+                    "label": {
+                      "content": {
+                        "languages": "eng",
+                        "string": "Script",
+                        "lang": "eng"
+                      },
+                      "uuid": "108422f2-ffc8-4ed4-9863-815ef0cee189"
+                    }
+                  },
+                  {
+                    "label": {
+                      "content": {
+                        "languages": "eng",
+                        "string": "Language",
+                        "lang": "eng"
+                      },
+                      "uuid": "f72f1b40-2602-57fe-9b34-351d7d4df00e"
+                    }
+                  },
+                  {
+                    "label": {
+                      "content": {
+                        "languages": "eng",
+                        "string": "Material",
+                        "lang": "eng"
+                      },
+                      "uuid": "9ef98572-7a17-fe11-3c90-fe4f0a66fa78"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "identification": {
+                "label": {
+                  "content": {
+                    "languages": "eng",
+                    "string": "Kamid el-Loz 77:66",
+                    "lang": "eng"
+                  }
+                }
+              },
+              "publicationDateTime": "2026-02-27T23:48:47Z",
+              "observation": {
+                "observationNo": "Obs. 1"
+              },
+              "coordinates": {
+                "coord": {
+                  "latitude": 33.6583333,
+                  "type": "point",
+                  "longitude": 35.7380556
+                }
+              },
+              "uuid": "6365ac51-7a30-4368-984b-562871bcd7ee",
+              "n": 0,
+              "properties": {
+                "property": [
+                  {
+                    "label": {
+                      "content": {
+                        "languages": "eng",
+                        "string": "Object type",
+                        "lang": "eng"
+                      },
+                      "uuid": "7ed72a30-14a2-df6f-a2c9-76295cdb4bdb"
+                    },
+                    "value": {
+                      "dataType": "string",
+                      "content": {
+                        "languages": "eng",
+                        "string": "Vessel",
+                        "lang": "eng"
+                      },
+                      "category": "propertyValue",
+                      "uuid": "5af0fd42-3d4c-5538-d52c-cd04fc56fd40"
+                    }
+                  },
+                  {
+                    "label": {
+                      "content": {
+                        "languages": "eng",
+                        "string": "Museum Number",
+                        "lang": "eng"
+                      },
+                      "uuid": "1593a756-6733-4de8-a056-e4b546be202e"
+                    },
+                    "value": {
+                      "dataType": "string",
+                      "content": "Beyrouth KL 77:66"
+                    }
+                  },
+                  {
+                    "label": {
+                      "content": {
+                        "languages": "eng",
+                        "string": "Full TEO Findspot",
+                        "lang": "eng"
+                      },
+                      "uuid": "8ab9caea-aa80-4bae-a359-d1b03eddddf4"
+                    },
+                    "value": {
+                      "dataType": "string",
+                      "content": "Kamid el-Loz Palais P 2"
+                    }
+                  },
+                  {
+                    "label": {
+                      "content": {
+                        "languages": "eng",
+                        "string": "Script",
+                        "lang": "eng"
+                      },
+                      "uuid": "108422f2-ffc8-4ed4-9863-815ef0cee189"
+                    },
+                    "value": {
+                      "dataType": "string",
+                      "content": {
+                        "languages": "eng",
+                        "string": "Alphabetic",
+                        "lang": "eng"
+                      },
+                      "category": "propertyValue",
+                      "uuid": "d9deb910-2c10-4249-ae27-f0d85c5ca3e4"
+                    }
+                  },
+                  {
+                    "label": {
+                      "content": {
+                        "languages": "eng",
+                        "string": "Language",
+                        "lang": "eng"
+                      },
+                      "uuid": "f72f1b40-2602-57fe-9b34-351d7d4df00e"
+                    },
+                    "value": {
+                      "dataType": "string",
+                      "content": {
+                        "languages": "eng",
+                        "string": "Ugaritic",
+                        "lang": "eng"
+                      },
+                      "isUncertain": true,
+                      "category": "propertyValue",
+                      "uuid": "fd10e240-1794-821a-0e92-0d5c66b9b996"
+                    }
+                  },
+                  {
+                    "label": {
+                      "content": {
+                        "languages": "eng",
+                        "string": "Material",
+                        "lang": "eng"
+                      },
+                      "uuid": "9ef98572-7a17-fe11-3c90-fe4f0a66fa78"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "identification": {
+                "label": {
+                  "content": {
+                    "languages": "eng",
+                    "string": "Mount Tabor",
+                    "lang": "eng"
+                  }
+                }
+              },
+              "publicationDateTime": "2026-02-27T23:48:47Z",
+              "observation": {
+                "observationNo": "Obs. 1"
+              },
+              "coordinates": {
+                "coord": {
+                  "latitude": 32.68639,
+                  "type": "point",
+                  "longitude": 35.39
+                }
+              },
+              "uuid": "18346ffc-d2f0-4423-a34c-2b956ec295ad",
+              "n": 0,
+              "properties": {
+                "property": [
+                  {
+                    "label": {
+                      "content": {
+                        "languages": "eng",
+                        "string": "Object type",
+                        "lang": "eng"
+                      },
+                      "uuid": "7ed72a30-14a2-df6f-a2c9-76295cdb4bdb"
+                    },
+                    "value": {
+                      "dataType": "string",
+                      "content": {
+                        "languages": "eng",
+                        "string": "Knife",
+                        "lang": "eng"
+                      },
+                      "category": "propertyValue",
+                      "uuid": "0b54147d-0452-2673-1226-408ddf667392"
+                    }
+                  },
+                  {
+                    "label": {
+                      "content": {
+                        "languages": "eng",
+                        "string": "Museum Number",
+                        "lang": "eng"
+                      },
+                      "uuid": "1593a756-6733-4de8-a056-e4b546be202e"
+                    },
+                    "value": {
+                      "dataType": "string",
+                      "content": "Jerusalem, PAM 44.318"
+                    }
+                  },
+                  {
+                    "label": {
+                      "content": {
+                        "languages": "eng",
+                        "string": "Full TEO Findspot",
+                        "lang": "eng"
+                      },
+                      "uuid": "8ab9caea-aa80-4bae-a359-d1b03eddddf4"
+                    },
+                    "value": {
+                      "dataType": "string",
+                      "content": "Mount Tabor"
+                    }
+                  },
+                  {
+                    "label": {
+                      "content": {
+                        "languages": "eng",
+                        "string": "Script",
+                        "lang": "eng"
+                      },
+                      "uuid": "108422f2-ffc8-4ed4-9863-815ef0cee189"
+                    },
+                    "value": {
+                      "dataType": "string",
+                      "content": {
+                        "languages": "eng",
+                        "string": "Alphabetic",
+                        "lang": "eng"
+                      },
+                      "category": "propertyValue",
+                      "uuid": "d9deb910-2c10-4249-ae27-f0d85c5ca3e4"
+                    }
+                  },
+                  {
+                    "label": {
+                      "content": {
+                        "languages": "eng",
+                        "string": "Language",
+                        "lang": "eng"
+                      },
+                      "uuid": "f72f1b40-2602-57fe-9b34-351d7d4df00e"
+                    },
+                    "value": {
+                      "dataType": "string",
+                      "content": {
+                        "languages": "eng",
+                        "string": "Ugaritic",
+                        "lang": "eng"
+                      },
+                      "category": "propertyValue",
+                      "uuid": "fd10e240-1794-821a-0e92-0d5c66b9b996"
+                    }
+                  },
+                  {
+                    "label": {
+                      "content": {
+                        "languages": "eng",
+                        "string": "Material",
+                        "lang": "eng"
+                      },
+                      "uuid": "9ef98572-7a17-fe11-3c90-fe4f0a66fa78"
+                    },
+                    "value": {
+                      "dataType": "string",
+                      "content": {
+                        "languages": "eng",
+                        "string": "Metal",
+                        "lang": "eng"
+                      },
+                      "category": "propertyValue",
+                      "uuid": "37f39f64-1e82-db61-34c8-7d722951ec0c"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "identification": {
+                "label": {
+                  "content": {
+                    "languages": "eng",
+                    "string": "Sarepta 3102",
+                    "lang": "eng"
+                  }
+                }
+              },
+              "publicationDateTime": "2026-02-27T23:48:47Z",
+              "observation": {
+                "observationNo": "Obs. 1"
+              },
+              "coordinates": {
+                "coord": {
+                  "latitude": 33.4513889,
+                  "type": "point",
+                  "longitude": 35.2908333
+                }
+              },
+              "uuid": "e91444e9-7f49-43af-9373-f707a07d346b",
+              "n": 0,
+              "properties": {
+                "property": [
+                  {
+                    "label": {
+                      "content": {
+                        "languages": "eng",
+                        "string": "Object type",
+                        "lang": "eng"
+                      },
+                      "uuid": "7ed72a30-14a2-df6f-a2c9-76295cdb4bdb"
+                    },
+                    "value": {
+                      "dataType": "string",
+                      "content": {
+                        "languages": "eng",
+                        "string": "Vessel",
+                        "lang": "eng"
+                      },
+                      "category": "propertyValue",
+                      "uuid": "5af0fd42-3d4c-5538-d52c-cd04fc56fd40"
+                    }
+                  },
+                  {
+                    "label": {
+                      "content": {
+                        "languages": "eng",
+                        "string": "Museum Number",
+                        "lang": "eng"
+                      },
+                      "uuid": "1593a756-6733-4de8-a056-e4b546be202e"
+                    },
+                    "value": {
+                      "dataType": "string",
+                      "content": "Beyrouth Sar 3102"
+                    }
+                  },
+                  {
+                    "label": {
+                      "content": {
+                        "languages": "eng",
+                        "string": "Full TEO Findspot",
+                        "lang": "eng"
+                      },
+                      "uuid": "8ab9caea-aa80-4bae-a359-d1b03eddddf4"
+                    },
+                    "value": {
+                      "dataType": "string",
+                      "content": "Sarepta"
+                    }
+                  },
+                  {
+                    "label": {
+                      "content": {
+                        "languages": "eng",
+                        "string": "Script",
+                        "lang": "eng"
+                      },
+                      "uuid": "108422f2-ffc8-4ed4-9863-815ef0cee189"
+                    },
+                    "value": {
+                      "dataType": "string",
+                      "content": {
+                        "languages": "eng",
+                        "string": "Alphabetic",
+                        "lang": "eng"
+                      },
+                      "category": "propertyValue",
+                      "uuid": "d9deb910-2c10-4249-ae27-f0d85c5ca3e4"
+                    }
+                  },
+                  {
+                    "label": {
+                      "content": {
+                        "languages": "eng",
+                        "string": "Language",
+                        "lang": "eng"
+                      },
+                      "uuid": "f72f1b40-2602-57fe-9b34-351d7d4df00e"
+                    },
+                    "value": {
+                      "dataType": "string",
+                      "content": {
+                        "languages": "eng",
+                        "string": "Ugaritic",
+                        "lang": "eng"
+                      },
+                      "category": "propertyValue",
+                      "uuid": "fd10e240-1794-821a-0e92-0d5c66b9b996"
+                    }
+                  },
+                  {
+                    "label": {
+                      "content": {
+                        "languages": "eng",
+                        "string": "Material",
+                        "lang": "eng"
+                      },
+                      "uuid": "9ef98572-7a17-fe11-3c90-fe4f0a66fa78"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "identification": {
+                "label": {
+                  "content": {
+                    "languages": "eng",
+                    "string": "Sarepta jar handle",
+                    "lang": "eng"
+                  }
+                }
+              },
+              "publicationDateTime": "2026-02-27T23:48:47Z",
+              "observation": {
+                "observationNo": "Obs. 1"
+              },
+              "coordinates": {
+                "coord": {
+                  "latitude": 33.4513889,
+                  "type": "point",
+                  "longitude": 35.2908333
+                }
+              },
+              "uuid": "d45be510-be84-457a-a0f1-5782ecfc8f07",
+              "n": 0,
+              "properties": {
+                "property": [
+                  {
+                    "label": {
+                      "content": {
+                        "languages": "eng",
+                        "string": "Object type",
+                        "lang": "eng"
+                      },
+                      "uuid": "7ed72a30-14a2-df6f-a2c9-76295cdb4bdb"
+                    },
+                    "value": {
+                      "dataType": "string",
+                      "content": {
+                        "languages": "eng",
+                        "string": "Vessel",
+                        "lang": "eng"
+                      },
+                      "category": "propertyValue",
+                      "uuid": "5af0fd42-3d4c-5538-d52c-cd04fc56fd40"
+                    }
+                  },
+                  {
+                    "label": {
+                      "content": {
+                        "languages": "eng",
+                        "string": "Museum Number",
+                        "lang": "eng"
+                      },
+                      "uuid": "1593a756-6733-4de8-a056-e4b546be202e"
+                    },
+                    "value": {
+                      "dataType": "string",
+                      "content": "Beyrouth"
+                    }
+                  },
+                  {
+                    "label": {
+                      "content": {
+                        "languages": "eng",
+                        "string": "Full TEO Findspot",
+                        "lang": "eng"
+                      },
+                      "uuid": "8ab9caea-aa80-4bae-a359-d1b03eddddf4"
+                    },
+                    "value": {
+                      "dataType": "string",
+                      "content": "Sarepta"
+                    }
+                  },
+                  {
+                    "label": {
+                      "content": {
+                        "languages": "eng",
+                        "string": "Script",
+                        "lang": "eng"
+                      },
+                      "uuid": "108422f2-ffc8-4ed4-9863-815ef0cee189"
+                    },
+                    "value": {
+                      "dataType": "string",
+                      "content": {
+                        "languages": "eng",
+                        "string": "Alphabetic",
+                        "lang": "eng"
+                      },
+                      "category": "propertyValue",
+                      "uuid": "d9deb910-2c10-4249-ae27-f0d85c5ca3e4"
+                    }
+                  },
+                  {
+                    "label": {
+                      "content": {
+                        "languages": "eng",
+                        "string": "Language",
+                        "lang": "eng"
+                      },
+                      "uuid": "f72f1b40-2602-57fe-9b34-351d7d4df00e"
+                    },
+                    "value": {
+                      "dataType": "string",
+                      "content": {
+                        "languages": "eng",
+                        "string": "Ugaritic",
+                        "lang": "eng"
+                      },
+                      "isUncertain": true,
+                      "category": "propertyValue",
+                      "uuid": "fd10e240-1794-821a-0e92-0d5c66b9b996"
+                    }
+                  },
+                  {
+                    "label": {
+                      "content": {
+                        "languages": "eng",
+                        "string": "Material",
+                        "lang": "eng"
+                      },
+                      "uuid": "9ef98572-7a17-fe11-3c90-fe4f0a66fa78"
+                    },
+                    "value": {
+                      "dataType": "string",
+                      "content": {
+                        "languages": "eng",
+                        "string": "Ceramic",
+                        "lang": "eng"
+                      },
+                      "category": "propertyValue",
+                      "uuid": "d0729a01-b42d-ccf4-7b90-a29a30981307"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "identification": {
+                "label": {
+                  "content": {
+                    "languages": "eng",
+                    "string": "Tell Nebi Mend 022",
+                    "lang": "eng"
+                  }
+                }
+              },
+              "publicationDateTime": "2026-02-27T23:48:47Z",
+              "observation": {
+                "observationNo": "Obs. 1"
+              },
+              "coordinates": {
+                "coord": {
+                  "latitude": 34.555573,
+                  "type": "point",
+                  "longitude": 36.5187911
+                }
+              },
+              "uuid": "629586e8-d0f2-4954-a0cc-7b7bac655b5c",
+              "n": 0,
+              "properties": {
+                "property": [
+                  {
+                    "label": {
+                      "content": {
+                        "languages": "eng",
+                        "string": "Object type",
+                        "lang": "eng"
+                      },
+                      "uuid": "7ed72a30-14a2-df6f-a2c9-76295cdb4bdb"
+                    },
+                    "value": {
+                      "dataType": "string",
+                      "content": {
+                        "languages": "eng",
+                        "string": "Vessel",
+                        "lang": "eng"
+                      },
+                      "category": "propertyValue",
+                      "uuid": "5af0fd42-3d4c-5538-d52c-cd04fc56fd40"
+                    }
+                  },
+                  {
+                    "label": {
+                      "content": {
+                        "languages": "eng",
+                        "string": "Museum Number",
+                        "lang": "eng"
+                      },
+                      "uuid": "1593a756-6733-4de8-a056-e4b546be202e"
+                    },
+                    "value": {
+                      "dataType": "string",
+                      "content": "Homs TNM 022"
+                    }
+                  },
+                  {
+                    "label": {
+                      "content": {
+                        "languages": "eng",
+                        "string": "Full TEO Findspot",
+                        "lang": "eng"
+                      },
+                      "uuid": "8ab9caea-aa80-4bae-a359-d1b03eddddf4"
+                    },
+                    "value": {
+                      "dataType": "string",
+                      "content": "Tell Nebi Mend"
+                    }
+                  },
+                  {
+                    "label": {
+                      "content": {
+                        "languages": "eng",
+                        "string": "Script",
+                        "lang": "eng"
+                      },
+                      "uuid": "108422f2-ffc8-4ed4-9863-815ef0cee189"
+                    },
+                    "value": {
+                      "dataType": "string",
+                      "content": {
+                        "languages": "eng",
+                        "string": "Alphabetic",
+                        "lang": "eng"
+                      },
+                      "category": "propertyValue",
+                      "uuid": "d9deb910-2c10-4249-ae27-f0d85c5ca3e4"
+                    }
+                  },
+                  {
+                    "label": {
+                      "content": {
+                        "languages": "eng",
+                        "string": "Language",
+                        "lang": "eng"
+                      },
+                      "uuid": "f72f1b40-2602-57fe-9b34-351d7d4df00e"
+                    },
+                    "value": {
+                      "dataType": "string",
+                      "content": {
+                        "languages": "eng",
+                        "string": "Ugaritic",
+                        "lang": "eng"
+                      },
+                      "category": "propertyValue",
+                      "uuid": "fd10e240-1794-821a-0e92-0d5c66b9b996"
+                    }
+                  },
+                  {
+                    "label": {
+                      "content": {
+                        "languages": "eng",
+                        "string": "Material",
+                        "lang": "eng"
+                      },
+                      "uuid": "9ef98572-7a17-fe11-3c90-fe4f0a66fa78"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "identification": {
+                "label": {
+                  "content": {
+                    "languages": "eng",
+                    "string": "Tell Soukas 4001",
+                    "lang": "eng"
+                  }
+                }
+              },
+              "publicationDateTime": "2026-02-27T23:48:47Z",
+              "observation": {
+                "observationNo": "Obs. 1"
+              },
+              "coordinates": {
+                "coord": {
+                  "latitude": 35.3058722,
+                  "type": "point",
+                  "longitude": 35.9227417
+                }
+              },
+              "uuid": "e2209e2c-dcc1-48b6-860e-94b079de8e09",
+              "n": 0,
+              "properties": {
+                "property": [
+                  {
+                    "label": {
+                      "content": {
+                        "languages": "eng",
+                        "string": "Object type",
+                        "lang": "eng"
+                      },
+                      "uuid": "7ed72a30-14a2-df6f-a2c9-76295cdb4bdb"
+                    },
+                    "value": {
+                      "dataType": "string",
+                      "content": {
+                        "languages": "eng",
+                        "string": "Tablet",
+                        "lang": "eng"
+                      },
+                      "category": "propertyValue",
+                      "uuid": "20a05d15-12e1-44cd-542f-c1f6188fa026"
+                    }
+                  },
+                  {
+                    "label": {
+                      "content": {
+                        "languages": "eng",
+                        "string": "Museum Number",
+                        "lang": "eng"
+                      },
+                      "uuid": "1593a756-6733-4de8-a056-e4b546be202e"
+                    },
+                    "value": {
+                      "dataType": "string",
+                      "content": "DO 849"
+                    }
+                  },
+                  {
+                    "label": {
+                      "content": {
+                        "languages": "eng",
+                        "string": "Full TEO Findspot",
+                        "lang": "eng"
+                      },
+                      "uuid": "8ab9caea-aa80-4bae-a359-d1b03eddddf4"
+                    },
+                    "value": {
+                      "dataType": "string",
+                      "content": "Tell Soukas"
+                    }
+                  },
+                  {
+                    "label": {
+                      "content": {
+                        "languages": "eng",
+                        "string": "Script",
+                        "lang": "eng"
+                      },
+                      "uuid": "108422f2-ffc8-4ed4-9863-815ef0cee189"
+                    },
+                    "value": {
+                      "dataType": "string",
+                      "content": {
+                        "languages": "eng",
+                        "string": "Alphabetic",
+                        "lang": "eng"
+                      },
+                      "category": "propertyValue",
+                      "uuid": "d9deb910-2c10-4249-ae27-f0d85c5ca3e4"
+                    }
+                  },
+                  {
+                    "label": {
+                      "content": {
+                        "languages": "eng",
+                        "string": "Language",
+                        "lang": "eng"
+                      },
+                      "uuid": "f72f1b40-2602-57fe-9b34-351d7d4df00e"
+                    },
+                    "value": {
+                      "dataType": "string",
+                      "content": {
+                        "languages": "eng",
+                        "string": "Ugaritic",
+                        "lang": "eng"
+                      },
+                      "category": "propertyValue",
+                      "uuid": "fd10e240-1794-821a-0e92-0d5c66b9b996"
+                    }
+                  },
+                  {
+                    "label": {
+                      "content": {
+                        "languages": "eng",
+                        "string": "Material",
+                        "lang": "eng"
+                      },
+                      "uuid": "9ef98572-7a17-fe11-3c90-fe4f0a66fa78"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "identification": {
+                "label": {
+                  "content": {
+                    "languages": "eng",
+                    "string": "Tell Taʿanak",
+                    "lang": "eng"
+                  }
+                }
+              },
+              "publicationDateTime": "2026-02-27T23:48:47Z",
+              "observation": {
+                "observationNo": "Obs. 1"
+              },
+              "coordinates": {
+                "coord": {
+                  "latitude": 32.2221806,
+                  "type": "point",
+                  "longitude": 35.2196944
+                }
+              },
+              "uuid": "cbd87c4c-3365-4145-b91e-08646f9d513c",
+              "n": 0,
+              "properties": {
+                "property": [
+                  {
+                    "label": {
+                      "content": {
+                        "languages": "eng",
+                        "string": "Object type",
+                        "lang": "eng"
+                      },
+                      "uuid": "7ed72a30-14a2-df6f-a2c9-76295cdb4bdb"
+                    },
+                    "value": {
+                      "dataType": "string",
+                      "content": {
+                        "languages": "eng",
+                        "string": "Tablet",
+                        "lang": "eng"
+                      },
+                      "category": "propertyValue",
+                      "uuid": "20a05d15-12e1-44cd-542f-c1f6188fa026"
+                    }
+                  },
+                  {
+                    "label": {
+                      "content": {
+                        "languages": "eng",
+                        "string": "Museum Number",
+                        "lang": "eng"
+                      },
+                      "uuid": "1593a756-6733-4de8-a056-e4b546be202e"
+                    },
+                    "value": {
+                      "dataType": "string",
+                      "content": "Concordia Seminary, St. Louis MO (USA) T.T. 433"
+                    }
+                  },
+                  {
+                    "label": {
+                      "content": {
+                        "languages": "eng",
+                        "string": "Full TEO Findspot",
+                        "lang": "eng"
+                      },
+                      "uuid": "8ab9caea-aa80-4bae-a359-d1b03eddddf4"
+                    },
+                    "value": {
+                      "dataType": "string",
+                      "content": "Tell Ta'anak"
+                    }
+                  },
+                  {
+                    "label": {
+                      "content": {
+                        "languages": "eng",
+                        "string": "Script",
+                        "lang": "eng"
+                      },
+                      "uuid": "108422f2-ffc8-4ed4-9863-815ef0cee189"
+                    },
+                    "value": {
+                      "dataType": "string",
+                      "content": {
+                        "languages": "eng",
+                        "string": "Alphabetic",
+                        "lang": "eng"
+                      },
+                      "category": "propertyValue",
+                      "uuid": "d9deb910-2c10-4249-ae27-f0d85c5ca3e4"
+                    }
+                  },
+                  {
+                    "label": {
+                      "content": {
+                        "languages": "eng",
+                        "string": "Language",
+                        "lang": "eng"
+                      },
+                      "uuid": "f72f1b40-2602-57fe-9b34-351d7d4df00e"
+                    },
+                    "value": {
+                      "dataType": "string",
+                      "content": {
+                        "languages": "eng",
+                        "string": "Ugaritic",
+                        "lang": "eng"
+                      },
+                      "category": "propertyValue",
+                      "uuid": "fd10e240-1794-821a-0e92-0d5c66b9b996"
+                    }
+                  },
+                  {
+                    "label": {
+                      "content": {
+                        "languages": "eng",
+                        "string": "Material",
+                        "lang": "eng"
+                      },
+                      "uuid": "9ef98572-7a17-fe11-3c90-fe4f0a66fa78"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      "languages": "eng;fre;ger;spa",
+      "publicationDateTime": "2026-02-27T23:48:54Z",
+      "uuid": "240e6e06-9d05-4210-aa83-f4190639886d",
+      "belongsTo": "RSTI",
+      "persistentUrl": "https://pi.lib.uchicago.edu/1001/org/ochre/240e6e06-9d05-4210-aa83-f4190639886d"
+    }
+  }
+}
